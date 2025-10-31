@@ -3,6 +3,8 @@ Blood Test Parser: Data extraction from PDF or Image (via OCR) to Excel/CSV Spre
 
 In order to get it working, set your exams files (pdf or images) inside the /exames/ folder. It can work for any language, just translate the terms inside the file compilar_exames.py file. Bellow these instructions is the reason why I made this code and attached with the files is the text that also inspired me: https://x.com/MikkaelSekeres/status/1695438539184279838/photo/1 - Thank you Mikkael Sekeres!
 
+Explaining video: https://www.youtube.com/watch?v=bvKgxP5gXGQ
+
 ---- HOW TO RUN THE CODE DIRECTLY (WITH NO EXE COMPILATION) IN LINUX ----
 
 Be sure you are in the coderdoc folder in the prompt, then run:
