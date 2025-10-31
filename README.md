@@ -61,7 +61,7 @@ I hope it helps others reach the correct diagnosis, just as it helped us.
 
 Methotrexate blocked the DHFR enzyme, leading to an increase in homocysteine, which damaged the middle meninges because they have less connective tissue, are pulsatile, and are more susceptible to pressure variations. This caused an epidural hematoma that compressed areas related to the legs and silenced the CD320 and SLC19A1 genes, reducing folate and B12 entry into hematopoietic cells.
 
-The treatment that bypassed this problem to reverse the methylation from the epigenetic alteration was folinic acid and IM chronobe. Since citoneurin has only a 1–3 day lifespan, it could not effectively enter cells via active transport (minimal in both cases due to gene silencing), nonspecific pinocytosis (5–10% increased to 10–15%), or passive diffusion (1% increased to 5%), unlike the 5–10 day window provided by hydroxocobalamin, which does not require the silenced receptors for cellular entry.
+The treatment that bypassed this problem to reverse the methylation from the epigenetic alteration was folinic acid, active B6 (piridoxine) and IM chronobe. Since citoneurin has only a 1–3 day lifespan, it could not effectively enter cells via active transport (minimal in both cases due to gene silencing), nonspecific pinocytosis (5–10% increased to 10–15%), or passive diffusion (1% increased to 5%), unlike the 5–10 day window provided by hydroxocobalamin, which does not require the silenced receptors for cellular entry.
 
 --- Portuguese version:
 
@@ -77,4 +77,4 @@ Espero que ajude a todos a chegarem no diagnóstico verdadeiro, assim como nos a
 
 Metotrexato bloqueou enzima dhfr, gerando aumento de homocisteína, q danificou meníngeas médias por terem menos tecido conjuntivo, serem pulsáteis e sofrerem mais variação de pressão, causando o hematoma extradural que pressionou áreas referentes às pernas e silenciamento dos genes cd320 e slc19a1, reduzindo entrada de folato e b12 na célula hematopoiética.
 
-Tto que contornou o problema para desfazer metilação da alteração epigenética foi ácido folínico e cronobe im, visto que citoneurin possui apenas 1-3 dias de vida útil, não viabilizando entrada por transporte ativo (mínimo em ambos pois silenciados), pinocitose inespecífica (de 5-10% para 10-15%) ou difusão passiva (de 1% para 5%) como a propiciada pelos 5-10 dias da hidroxicobalamina, não demandando os receptores silenciados para a entrada celular.
+O tratamento que contornou o problema para desfazer metilação da alteração epigenética foi ácido folínico, B6 ativa (piridoxina) e Cronobê im, visto que Citoneurin possui apenas 1-3 dias de vida útil, não viabilizando entrada por transporte ativo (mínimo em ambos pois silenciados), pinocitose inespecífica (de 5-10% para 10-15%) ou difusão passiva (de 1% para 5%) como a propiciada pelos 5-10 dias da hidroxicobalamina, não demandando os receptores silenciados para a entrada celular.
